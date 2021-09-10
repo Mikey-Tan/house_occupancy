@@ -3,7 +3,7 @@
 Interview question for Intelligent Automation Developer Role
 
 
-Background
+Background:
 On a suburban street in Sydney, a number of houses stand built in a row.
 On a given week, the occupancy of each household can be in one of two states. These are either: [1] Home, or [0] Away
 
@@ -18,7 +18,7 @@ the following week.
 3. If a household only has 1 neighbour (I.e., the first or last house in the street), then it can be assumed the other
 “unseen” neighbour is always away for the current week.
 
-Task Description
+Task Description:
 Write a function “calculateOccupancy” that takes an initial occupancy state for a row of houses and then returns the
 final occupancy state after a given number of weeks. (The interim occupancy state is not required, only the final state).
 
