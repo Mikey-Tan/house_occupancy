@@ -9,13 +9,13 @@ On a given week, the occupancy of each household can be in one of two states. Th
 
 Each week, the occupancy of each household may change. These changes are based on the following rules:
 
-1.If both neighbours of a household are away or both are at home for the current week, then that household
+1. If both neighbours of a household are away or both are at home for the current week, then that household
 will be at home the following week.
 
-2.If one neighbour is away, and the other is at home for the current week, then that household will be away
+2. If one neighbour is away, and the other is at home for the current week, then that household will be away
 the following week.
 
-3.If a household only has 1 neighbour (I.e., the first or last house in the street), then it can be assumed the other
+3. If a household only has 1 neighbour (I.e., the first or last house in the street), then it can be assumed the other
 “unseen” neighbour is always away for the current week.
 
 2. Task Description
